@@ -1,0 +1,15 @@
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\obj\Debug\net7.0\ItogKR.csproj.AssemblyReference.cache
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\obj\Debug\net7.0\ItogKR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\obj\Debug\net7.0\ItogKR.AssemblyInfoInputs.cache
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\obj\Debug\net7.0\ItogKR.AssemblyInfo.cs
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\obj\Debug\net7.0\ItogKR.csproj.CoreCompileInputs.cache
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\bin\Debug\net7.0\ItogKR.exe
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\bin\Debug\net7.0\ItogKR.deps.json
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\bin\Debug\net7.0\ItogKR.runtimeconfig.json
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\bin\Debug\net7.0\ItogKR.dll
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\bin\Debug\net7.0\ItogKR.pdb
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\obj\Debug\net7.0\ItogKR.dll
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\obj\Debug\net7.0\refint\ItogKR.dll
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\obj\Debug\net7.0\ItogKR.pdb
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\obj\Debug\net7.0\ItogKR.genruntimeconfig.cache
+D:\Andrey\Documents\VSCode\Итоговая КР\ItogKR\obj\Debug\net7.0\ref\ItogKR.dll
